@@ -1,0 +1,1 @@
+In this project I am using validations for a form to create a user account and add it to a database in MySQL. I am using Flask to tie in the front-end through back-end of the application as well as session to keep the data of one logged in account up and running once loggend in to the applicaiton.
